@@ -1,0 +1,35 @@
+Omege UOS Memory Test Tool
+==========================
+
+This is Omege UOS operating system of memory test tool source code GitHub repository.
+
+Quick Start
+-------------
+Website: https://www.omegeuos.top/en-us/
+License: https://github.com/deeplearning-corporation/memtest/blob/main/LICENSE/
+Docs: https://docs.omegeuos.top/
+
+1.Welcome
+--------
+Welcome to Omege UOS memory test tool of source tree GitHub repository.
+
+2.Compile
+---------
+If you needs compile the Omege UOS memory test you needs of applications:
+GCC
+Make
+
+3.Run
+-----
+If you needs run the Omege UOS memory test you can download the ISO image file can press F8 key to Boot Menu. choose the Memory Test Tool.
+after Memory Test tool is running your PC.
+
+4.Legal
+-------
+
+The Omege UOS memory test tool is using MIT License is open-source.
+License: LICENSE file.
+
+5.Thanks Read
+-------------
+Thanks Read this README Docs.
