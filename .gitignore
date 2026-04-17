@@ -29,7 +29,7 @@
 *.dylib
 
 # Executables
-*.exe
+*.elf
 *.out
 *.app
 *.i*86
